@@ -10,8 +10,9 @@
 <body>
 
   <div id="app" class="jumbotron">
-    <button type="button" class="btn btn-danger" @click="pick_game"> Pick a Game </button>
+    <button type="button" class="btn btn-danger" @click="pickGame"> Pick a Game </button>
     <div>{{ game }}</div>
+    <button @click="addGame"> Add game </button>
   </div>
 
   <script src="https://unpkg.com/vue"></script>

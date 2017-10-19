@@ -1,6 +1,5 @@
 The Binding Of Isaac: Rebirth
 Counter-Strike: Global Offensive
-The Elder Scrolls V: Skyrim
 Fallout 4
 Grand Theft Auto V
 PLAYERUNKNOWN'S BATTLEGROUNDS
@@ -53,7 +52,6 @@ No Time To Explain
 One Finger Death Punch
 Paranautical Activity
 Party Hard
-Poker Night 1/2
 Portal
 POSTAL
 Quake Live
@@ -126,15 +124,9 @@ Tropico 4
 Valhalla
 Wolfenstein: The New Order
 Batman
-Bone 1/2
 Game Of Thrones
-Hector 1-3
 Minecraft Story Mode
-Puzzle Agent 1/2
-Sam And Max 101-205
-Telltale Holdem
 Town of Salem
-Hack_me 1/2
 Devil Daggers
 Geometry Dash
 Oh... Sir! 

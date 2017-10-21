@@ -1,6 +1,5 @@
 The Binding Of Isaac: Rebirth
 Counter-Strike: Global Offensive
-Fallout 4
 Grand Theft Auto V
 PLAYERUNKNOWN'S BATTLEGROUNDS
 Rocket League
@@ -112,7 +111,6 @@ The Final Station
 FTL: Faster Than Light
 Goat Simulator
 Gunpoint
-Her Story
 Kentucky Route Zero
 LIMBO
 Plague Inc
@@ -121,11 +119,9 @@ A Story About My Uncle
 Super Meat Boy
 Thomas Was Alone
 Tropico 4
-Valhalla
 Wolfenstein: The New Order
 Batman
 Game Of Thrones
-Minecraft Story Mode
 Town of Salem
 Devil Daggers
 Geometry Dash
@@ -140,10 +136,16 @@ Death Road to Canada
 Beat Cop
 Neon Chrome
 Dungeon Souls
-Pokemon
+Pokemon Showdown
 Minecraft
 PS4
-WII U
+PS4
+PS4
+WII
+WII
+WII
+WII
+WII
 PING PONG
 THERE'S ONLY ONE ANSWER
 Renegade Ops

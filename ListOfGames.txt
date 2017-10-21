@@ -106,7 +106,6 @@ Undertale
 The Beginner's Guide
 BioShock Infinite
 Bit.Trip 2
-FF7
 The Final Station
 FTL: Faster Than Light
 Goat Simulator
@@ -120,8 +119,8 @@ Super Meat Boy
 Thomas Was Alone
 Tropico 4
 Wolfenstein: The New Order
-Batman
-Game Of Thrones
+Telltale Batman
+Telltale Game Of Thrones
 Town of Salem
 Devil Daggers
 Geometry Dash
@@ -130,7 +129,7 @@ Oh... Sir! Hollywood Roast
 Who's Your Daddy
 SMITE
 GAME OF THE YEAR
-Fish Kanye 
+FISH KANYE
 Slender
 Death Road to Canada
 Beat Cop
@@ -148,7 +147,6 @@ WII
 WII
 PING PONG
 THERE'S ONLY ONE ANSWER
-Renegade Ops
 Dead Rising
 Bionic Commando
 resident evil 4

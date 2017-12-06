@@ -77,7 +77,6 @@ Starbound
 SUPERFIGHT
 TF2
 The Walking Dead 1/2/extra
-The Binding of Isaac Rebirth
 Bloons TD5
 Bioshock
 DEADBOLT
@@ -90,7 +89,6 @@ Rocket League
 RCT Deluxe
 Terraria
 Undertale
-The Beginner's Guide
 BioShock Infinite
 The Final Station
 FTL: Faster Than Light

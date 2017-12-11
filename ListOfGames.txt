@@ -17,7 +17,6 @@ The Basement Collection
 Beholder
 Big Pharma
 The Binding of Isaac
-Birdsketball
 Brawlhalla
 Car Mechanic Sim 2015
 CS Source
@@ -26,8 +25,6 @@ Divide by Sheep
 Double Action: Boogaloo
 Euro Truck Sim 2
 Fistful of Frags
-GEARCRACK Arena
-Gimbal
 Golf With Your Friends
 Guts and Glory
 HL2 Lost Coast
@@ -39,7 +36,6 @@ No Time To Explain
 One Finger Death Punch
 Paranautical Activity
 Party Hard
-Portal
 POSTAL
 Quake Live
 Refunct
@@ -60,14 +56,13 @@ Awesomenauts
 Pre-Sequel
 Clustertruck
 DARK SOULS III
-Garry's Mod
 HL2
 Nidhogg
 Owlboy
 Planetside 2
 Pony Island
 Portal 2
-Portal Stories: Mel
+Portal / Stories: Mel
 Punch Club
 Shovel Knight
 Civ VI
@@ -115,14 +110,6 @@ Pokemon Showdown
 Pokemon emulator
 Minecraft
 Modded Minecraft
-PS4
-PS4
-PS4
-WII
-WII
-WII
-WII
-WII
 PING PONG
 THERE'S ONLY ONE ANSWER
 Dead Rising

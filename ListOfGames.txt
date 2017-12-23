@@ -5,7 +5,6 @@ PLAYERUNKNOWN'S BATTLEGROUNDS
 BattleBlock Theater
 Borderlands 2
 Broforce
-Castle Crashers
 The Escapists 2
 Left 4 Dead 2
 LEGO STAR WARS THE FORCE AWAKENS
@@ -15,13 +14,11 @@ Synergy
 Ace of Spades
 The Basement Collection
 Beholder
-Big Pharma
 The Binding of Isaac
 Brawlhalla
 Car Mechanic Sim 2015
 CS Source
 Dino D-Day
-Divide by Sheep
 Double Action: Boogaloo
 Euro Truck Sim 2
 Fistful of Frags
@@ -40,17 +37,13 @@ POSTAL
 Quake Live
 Refunct
 Reigns
-Road to Ballhalla 
 RCT 3
 Scribblenauts Unlimited
 Shantae and the Pirates Curse
 Civ V
 Republic Commando
-SteamWorld Heist
-Streets of Rogue
 Surgeon Simulator
 Torchlight 2
-Windward
 Ziggurat
 Awesomenauts
 Pre-Sequel
@@ -77,14 +70,12 @@ Bioshock
 DEADBOLT
 Democracy 3
 Hacknet
-N++
 Nidhogg 2
 Risk of Rain
 Rocket League
 RCT Deluxe
 Terraria
 BioShock Infinite
-The Final Station
 FTL: Faster Than Light
 Goat Simulator
 Gunpoint

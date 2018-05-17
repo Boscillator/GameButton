@@ -5,7 +5,6 @@ PLAYERUNKNOWN'S BATTLEGROUNDS
 BattleBlock Theater
 Borderlands 2
 Broforce
-The Escapists 2
 Left 4 Dead 2
 LEGO STAR WARS THE FORCE AWAKENS
 Rust
@@ -16,7 +15,6 @@ The Basement Collection
 Beholder
 The Binding of Isaac
 Brawlhalla
-Car Mechanic Sim 2015
 CS Source
 Dino D-Day
 Double Action: Boogaloo
@@ -24,25 +22,19 @@ Euro Truck Sim 2
 Fistful of Frags
 Golf With Your Friends
 Guts and Glory
-HL2 Lost Coast
 Hotline Miami 2
-Little Racers STREET
 Mountain Blade Warband
 Neon Drive
-No Time To Explain
 One Finger Death Punch
 Paranautical Activity
 Party Hard
-Quake Live
 Refunct
 Reigns
-RCT 3
 Scribblenauts Unlimited
 Shantae and the Pirates Curse
 Civ V
 Republic Commando
 Surgeon Simulator
-Torchlight 2
 Ziggurat
 Awesomenauts
 Pre-Sequel
@@ -63,11 +55,8 @@ Sonic Generations
 Starbound
 SUPERFIGHT
 TF2
-The Walking Dead 1/2/extra
-Bloons TD5
 Bioshock
 DEADBOLT
-Democracy 3
 Hacknet
 Nidhogg 2
 Risk of Rain
@@ -97,26 +86,17 @@ Beat Cop
 Neon Chrome
 Dungeon Souls
 Pokemon Showdown
-Pokemon emulator
 Minecraft
-Modded Minecraft
-PING PONG
-THERE'S ONLY ONE ANSWER
 Dead Rising
 Bionic Commando
 resident evil 4
 Middle-Earth: Shadow of Mordor
 Darkest Dungeon
 Sonic Generations
-Has-Been Heroes
 Pinstripe
-Slayaway Camp
-Tattletail
-The Count Lucanor
 CRYPTARK
-SQUADSQUAD
+SQUAD
 Apotheon
-Hurtworld
 Crawl
 Armello
 Hearthstone
@@ -124,15 +104,11 @@ Overwatch
 Crypt of the NecroDancer
 TTT
 CS/GMOD SURFING
-WIKIPEDIA GAME
 Fortnite
 Dungeon of the Endless
-Q.U.B.E.
 Teslagrad
 ReThink
 Chivalry: Medeival warfare
-Dreaming Sarah
-Blockstorm
 Unturned
 PAYDAY 2
 Ancient Planet
@@ -140,14 +116,12 @@ Guns of Icarus
 CALL OF DUTY
 Ryse: Sun of Rome
 Tom Clancy'ssss The Divinsisonsn
-MINECART: STORY MODE _ A TELTELTELTE
 DOTER 2
 ARK: Survival Evolved
 Space Engineers
 Killing Floor 2
 Mirage: Arcane Warfare
 Cosmonautica
-Guns of Icarus... 2?
 The Fall
 Master Spy
 Poly Bridge
@@ -163,7 +137,7 @@ A Hat in Time
 Planet Coaster
 Papers Please
 Deep Dungeons of Doom
-Conan the Mighty Pigman
+conan the Mighty Pigman
 You Hate To See It
 Comedy Night
 Enter the Gungeon
@@ -177,3 +151,10 @@ Stellaris
 Aviary Attorney
 Kingsway (twitch)
 Tokyo 42 (twitch)
+Mafia III
+Laser League
+Lara Croft GO
+Moon Hunters
+RUNNING WITH RIFLES
+Deus Ex: Mankind Divided tm
+Stardew Valley

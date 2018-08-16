@@ -28,7 +28,6 @@ Neon Drive
 One Finger Death Punch
 Paranautical Activity
 Party Hard
-Refunct
 Reigns
 Scribblenauts Unlimited
 Civ V
@@ -49,7 +48,6 @@ Portal / Stories: Mel
 Punch Club
 Shovel Knight
 Civ VI
-Sonic Adventure 2
 Sonic Generations
 Starbound
 SUPERFIGHT
@@ -114,7 +112,7 @@ Killing Floor 2
 Master Spy
 Poly Bridge
 THE WICKTER three
-WARHAMMER 40K ALLCAPS SOMETHING OR OTHER
+WARHAMMER 40K ALLCAPS 
 Getting Over It with Bennet Fondley
 The Long Dark
 Quantum Break
@@ -141,3 +139,7 @@ RUNNING WITH RIFLES
 Deus Ex: Mankind Divided tm
 Stardew Valley
 pokemon
+EVE online
+Rogue legacy
+midair
+sleeping dogs

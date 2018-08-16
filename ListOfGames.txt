@@ -95,17 +95,14 @@ Hearthstone
 Overwatch
 Crypt of the NecroDancer
 TTT
-CS/GMOD SURFING
+SURF_
 Fortnite
 Dungeon of the Endless
-Teslagrad
 ReThink
 Chivalry: Medeival warfare
-Unturned
 PAYDAY 2
 Guns of Icarus
 CALL OF DUTY
-Ryse: Sun of Rome
 DOTER 2
 Space Engineers
 Killing Floor 2
@@ -148,3 +145,4 @@ Fifa
 Mlb the show
 until dawn
 you dont know the half of it: fins of fury
+the end is nigh
